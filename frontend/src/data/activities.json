@@ -1,0 +1,39 @@
+[
+ 
+  {
+    "theaterLocation": "chennai",
+    "theaterName": "plazo auditorium",
+    "movieName": "Jack Music concert",
+    "image": "https://i.imghippo.com/files/sRU111722767306.png",
+    "seat": 200,
+    "theaterAddress": "41,Baker Street,adayar,chennai-53",
+    "time": ["10:00", "24:00", "16:00", "12:00"],
+    "cancellation": true,
+    "food": true,
+    "rating": 5
+  },
+  {
+    "theaterLocation": "chennai",
+    "theaterName": "plazo auditorium",
+    "movieName": "Enjoy  Party",
+    "image": "https://i.imghippo.com/files/O7PtH1722767283.png ",
+    "seat": 200,
+    "theaterAddress": "41,Baker Street,adayar,chennai-53",
+    "time": ["10:00", "24:00", "16:00", "12:00"],
+    "cancellation": true,
+    "food": true,
+    "rating": 5
+  },
+  {
+    "theaterLocation": "chennai",
+    "theaterName": "plazo auditorium",
+    "movieName": "Inception",
+    "image": "https://i.imghippo.com/files/yZnfe1722767372.png",
+    "seat": 200,
+    "theaterAddress": "41,Baker Street,adayar,chennai-53",
+    "time": ["10:00", "24:00", "16:00", "12:00"],
+    "cancellation": true,
+    "food": true,
+    "rating": 5
+  }
+]

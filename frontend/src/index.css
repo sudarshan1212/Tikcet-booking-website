@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Bold";
+  src: local("Dirtyline 36daysoftype 2022"),
+    url("./assets/fonts/Nohemi-Bold-BF6438cc587b5b5.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Black";
+  src: local("Dirtyline 36daysoftype 2022"),
+    url("./assets/fonts/Nohemi-Black-BF6438cc5874bd2.otf") format("truetype");
+}
+@font-face {
+  font-family: "Light";
+  src: local("Dirtyline 36daysoftype 2022"),
+    url("./assets/fonts/Nohemi-Light-BF6438cc583f70b.otf") format("truetype");
+}
+
+@font-face {
+  font-family: "Regular";
+  src: local("Dirtyline 36daysoftype 2022"),
+    url("./assets/fonts/Nohemi-Regular-BF6438cc4d0e493.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Semi";
+  src: local("Dirtyline 36daysoftype 2022"),
+    url("./assets/fonts/Nohemi-SemiBold-BF6438cc588a48a.ttf") format("truetype");
+}
